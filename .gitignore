@@ -1,0 +1,12 @@
+# Machine-local output
+*.log
+*.tmp
+*.bak
+*.zip
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*~

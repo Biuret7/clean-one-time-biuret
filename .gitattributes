@@ -1,0 +1,7 @@
+# Keep the supplied batch bytes and CRLF line endings unchanged by Git.
+*.bat -text
+
+# Documentation and repository configuration use LF.
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
